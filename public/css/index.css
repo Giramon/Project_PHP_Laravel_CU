@@ -1,0 +1,51 @@
+.first_text {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 150px;
+}
+.text h3 {
+    margin-top: 50px;
+}
+.social {
+    margin-top: 50px;
+}
+.links {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 50px;
+}
+.links a {
+    text-decoration: none;
+    color: black;
+    font-size: 24px;
+    font-weight: bold;
+}
+.college a {
+    padding: 10px 100px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: aliceblue;
+    
+}
+.college a:hover {
+    background-color: rgb(255, 118, 6);
+    color: white;
+}
+.college {
+    margin: 0 auto;
+}
+.university {
+    margin: 0 auto;
+}
+.university a {
+    padding: 10px 100px;
+    border: 1px solid black;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
+.university a:hover {
+    background-color: rgb(255, 118, 6);
+    color: white;
+}

@@ -1,0 +1,26 @@
+.start_text {
+    margin-left: 50px;
+}
+
+.php_text {
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 70px;
+    font-size: 20px;
+}
+
+.element a {
+    color: black;
+}
+
+.element a:hover {
+    color: rgb(255, 118, 6);
+}
+
+.all  {
+    display: flex;
+    width: 1200px;
+    margin: 0 auto;
+    margin-top: 50px;
+    align-items: center;
+}
